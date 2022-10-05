@@ -21,6 +21,6 @@
     "parcel": "2.7.0"
   },
   "dependencies": {
-    "gsap": "3.11.2"
+    "gsap": "3.11.3"
   }
 }
