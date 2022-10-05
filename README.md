@@ -37,17 +37,3 @@ To get a local copy up and running follow these simple example steps.
    ```js
    yarn start
    ```
-
-## Licensing
-
-Copyright (C) 2022 Ibrahim Raimi
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation.
-
-The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community, and this program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY;** without even the implied warranty of **MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE**. See the GNU Affero General Public License for more details.
-
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
-
-## Contact
-
-We can be contacted via [email](mailto:raimiibrahim44@gmail.com) or via twitter [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_)
